@@ -1,2 +1,2 @@
-# climate_research_analyzer
+# Climate Lens
 Repo for climate related research analyzing 
